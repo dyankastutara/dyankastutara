@@ -33,4 +33,4 @@
 > "Code is like humor. When you have to explain it, it’s bad." — Cory House
 
 
-[![Dyan Kastutara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyankastutara)(https://github.com/dyankastutara)]
+[![Dyan Kastutara's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyankastutara)](https://github.com/dyankastutara)
