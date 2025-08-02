@@ -18,14 +18,14 @@
   `Docker` • `Git` • `VS Code` • `Vite` • `Postman`
 
 - **Deployment:**  
-  `Vercel` • `Heroku` • `Render` • `cPanel` • `Firebase`
+  `Vercel` • `Heroku` • `cPanel`
 
 ---
 
 ### 📫 Reach Me
 
 - 🌍 Website: [Coming Soon]
-- 📧 Email: [dyan@example.com] <!-- ganti jika kamu mau tampilkan -->
+- 📧 Email: [dyankastutara19@gmail.com] <!-- ganti jika kamu mau tampilkan -->
 - 🐙 GitHub: [github.com/dyankastutara](https://github.com/dyankastutara)
 
 ---
